@@ -1,0 +1,15 @@
+{
+  "name": "xlsx-node-fetch",
+  "version": "0.0.1",
+  "description": "Excel .xlsx file downloader",
+  "main": "node-fetch.js",
+  "scripts": {
+    "start": "node node-fetch.js"
+  },
+  "author": "AaronNGray",
+  "license": "MIT",
+  "dependencies": {
+    "node-fetch": "^2.6.0",
+    "node-gzip": "^1.1.2"
+  }
+}
