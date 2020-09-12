@@ -9,7 +9,7 @@
   "author": "AaronNGray",
   "license": "MIT",
   "dependencies": {
-    "node-fetch": "^2.6.0",
+    "node-fetch": "^2.6.1",
     "node-gzip": "^1.1.2"
   }
 }
